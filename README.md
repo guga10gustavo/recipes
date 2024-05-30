@@ -2,4 +2,4 @@
 
 This repository contains recipes for some foods I like.
 
-# For learning purposes
+## For learning purposes
